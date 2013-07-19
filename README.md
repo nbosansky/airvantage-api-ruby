@@ -1,4 +1,4 @@
 airvantage-api-ruby
 ===================
 
-Ruby example on how to use AirVantage API
+This project shows how to connect to Airvantage API using oauth2 ruby lib.
